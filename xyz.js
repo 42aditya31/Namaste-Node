@@ -1,0 +1,1 @@
+console.log("This is the another file which is calling thorugh the main entry point file")

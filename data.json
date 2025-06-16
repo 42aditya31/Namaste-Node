@@ -1,0 +1,9 @@
+{
+  "name": "Aditya Sharma",
+  "country": "India",
+  "college": "Your College Name Here",
+  "stream": "Computer Science and Engineering",
+  "year": "3rd Year",
+  "skills": ["HTML", "CSS", "JavaScript", "React.js", "Node.js", "MongoDB"],
+  "interests": ["Web Development", "Machine Learning", "Open Source", "Hackathons"]
+}
