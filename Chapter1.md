@@ -5,6 +5,9 @@
 
 ##  What is Node.js?
 
+
+
+
 **Node.js** is a **runtime environment** that allows you to run JavaScript code **outside the browser**, typically on the **server-side**.
 
 ### 🔍 In Simple Terms:
